@@ -1,0 +1,15 @@
+body {
+    font-size: 15px;
+}
+#naglowek #links {
+	display: none;
+}
+#naglowek #search {
+    display: none;
+}
+#container, #lewakolumna, #prawakolumna {
+    width: 100%;
+}
+#ob1 {
+    max-width: 50%;
+}
